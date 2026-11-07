@@ -18,6 +18,8 @@ git clone https://github.com/aetherion-nox/game-language-toggle-mod.git ~/.codex
 
 在 Codex 中说明游戏、目标语言、需要切换的界面和热键偏好，并提出制作或修复语言切换 Mod 的需求；也可明确指定 `game-language-toggle-mod`。实际实施需要相应游戏文件、版本信息和必要授权。
 
+已要求实施时，技能连续完成范围内的制作、安装与可执行验证；需要用户游玩、实体按键或目视检查的项目，完成后再集中确认。可以直接修改游戏文件，修改前备份受影响文件并提供回退方法；用户明确提出的隔离或原文件限制继续遵守。
+
 ## 文件
 
 - [SKILL.md](SKILL.md)：技能入口与核心工作流程。

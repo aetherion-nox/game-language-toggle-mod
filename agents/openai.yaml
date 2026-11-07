@@ -1,5 +1,5 @@
 interface:
   display_name: "游戏一键切换语言 Mod"
   short_description: "制作游戏内热键即时切换语言 Mod，覆盖当前对白与 Log 并保护存档"
-  default_prompt: "使用 $game-language-toggle-mod，为当前游戏制作或修复一键切换语言 Mod，让当前对白与所需 Log 即时切换，先隔离验证并保护正式存档。"
+  default_prompt: "使用 $game-language-toggle-mod，为当前游戏制作或修复一键切换语言 Mod，让当前对白与所需 Log 即时切换，可直接修改游戏文件并备份受影响文件，保护正式存档；连续完成实施、安装与可执行验证，完成后再集中请用户确认实机效果。"
 
